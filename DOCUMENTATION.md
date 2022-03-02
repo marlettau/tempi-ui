@@ -1,5 +1,5 @@
 
 Removing Client Selection Ability:
-```html
+```HTML
 tpi-disable-user-selection="true"
 ```
